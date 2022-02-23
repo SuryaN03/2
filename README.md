@@ -4,6 +4,12 @@
 
 Scrypt automatice Update + Upgrade Package pkg and apt
 
+Now Execute scrypt :
+                     sh 3.sh
+                     
+                     
+                     
+                     
 scrypt by SuryaN3
 
 
